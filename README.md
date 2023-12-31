@@ -9,10 +9,15 @@
     Music - Games - Designing - Cycling
 </pre>
 <br><br>
-<img src="https://cdn.discordapp.com/attachments/1008781284664942643/1180530531541192756/download__77_-removebg-preview.v1.png?ex=657dc1bb&is=656b4cbb&hm=ffe4e2472d1914ba106fda99baffea7db7e90df92afef1256658aa12cb73c5c3&" height="40" />
-<br><br><br>
     
 
-[![](https://img.shields.io/badge/discord-ff66ab)](https://discord.com/users/845287163712372756)
-[![](https://img.shields.io/badge/enka.network-ff66ab)](https://enka.network/u/EternalLuxury/3cYq1J/)
+
 </div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=EternalLuxury&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalLuxury&hide_progress=false&theme=radical" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=EternalLuxury&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://cdn.discordapp.com/attachments/1008781284664942643/1180530531541192756/download__77_-removebg-preview.v1.png?ex=657dc1bb&is=656b4cbb&hm=ffe4e2472d1914ba106fda99baffea7db7e90df92afef1256658aa12cb73c5c3&" height="40" />
+</div>
+
