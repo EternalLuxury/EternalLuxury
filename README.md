@@ -3,10 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=ff66ab&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Greetings+humans;I'm+Aurora%2C+a+tech+nerd+and+genshin+impact+addict+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    FullStack Developer
-    Developer of Hundreds of Codes
-    Founder of LuxuryLabs
-    Music - Games - Designing - Cycling
+    FullStack Developer and AI Engineer
+    Music - Games - Drawing
 </pre>
 <br><br>
     
